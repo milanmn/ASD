@@ -1,0 +1,75 @@
+body{
+text-align: center;   
+}
+
+.box1 {
+    color: black;
+    text-align: center;
+    float: left;
+    font-size: 16px;
+  }
+  
+  .box1 img {
+    border: 2px outset;
+    border-color: white;
+  }
+  
+  .box1:hover {
+    transform: scale(1.1);
+    transition: 1s;
+    font-size: 25px;
+  }
+  
+  .box2 {
+    color: black;
+    text-align: center;
+    float: left;
+    font-size: 16px;
+  }
+  
+  .box2 img {
+    border: 2px outset;
+    border-color: white;
+  }
+  
+  .box2:hover {
+    transform: scale(1.1);
+    transition: 1s;
+    font-size: 25px;
+  }
+  
+  .box3 {
+    color: black;
+    text-align: center;
+    float: left;
+    font-size: 16px;
+  }
+  
+  .box3 img {
+    border: 2px outset;
+    border-color: white;
+  }
+  
+  .box3:hover {
+    transform: scale(1.1);
+    transition: 1s;
+    font-size: 25px;
+  }
+  
+  .box4 {
+    color: black;
+    text-align: center;
+    float: left;
+    font-size: 16px;
+  }
+  
+  .box4 img {
+    border: 2px outset;
+    border-color: white;
+  }
+  
+  .box4:hover {
+    transform: scale(1.1);
+    transition: 1s;
+    font-size: 25px;
+  }
